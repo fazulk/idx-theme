@@ -1,0 +1,21 @@
+{
+  "name": "idx-theme",
+  "displayName": "idx theme",
+  "description": "idx color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Idx Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Idx Theme Dark-color-theme.json"
+      }
+    ]
+  }
+}
