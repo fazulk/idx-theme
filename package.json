@@ -3,6 +3,7 @@
   "displayName": "Idx theme",
   "description": "Idx color theme",
   "version": "0.0.1",
+  "publisher": "fazulk",
   "license": "MIT",
   "repository": "https://github.com/fazulk/idx-theme",
   "engines": {
